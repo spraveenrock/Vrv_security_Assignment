@@ -1,0 +1,16 @@
+Top IP Addresses by Request Count
+IP Address,Request Count
+203.0.113.5,8
+192.168.1.1,7
+198.51.100.23,7
+10.0.0.2,6
+192.168.1.100,5
+
+Most Frequently Accessed Endpoint
+Endpoint,Access Count
+/login,13
+
+Suspicious IPs
+IP Address,Failed Login Attempts
+192.168.1.100,5
+203.0.113.5,8
